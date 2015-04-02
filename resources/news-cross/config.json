@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"timestamp": {
+			"name": "timestamp",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "timestamp",
+			"order": 0
+		},
+		"headerText": {
+			"name": "headerText",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "headerText",
+			"order": 1
+		},
+		"titleText": {
+			"name": "titleText",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "titleText",
+			"order": 2
+		},
+		"headlineText": {
+			"name": "headlineText",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "headlineText",
+			"order": 3
+		},
+		"articleText": {
+			"name": "articleText",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "articleText",
+			"order": 4
+		}
+	}
+}

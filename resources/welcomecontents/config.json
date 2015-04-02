@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"viewid": {
+			"name": "viewid",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "viewid",
+			"order": 0
+		},
+		"subviewid": {
+			"name": "subviewid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "subviewid",
+			"order": 1
+		},
+		"orderno": {
+			"name": "orderno",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "orderno",
+			"order": 2
+		},
+		"tag": {
+			"name": "tag",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "tag",
+			"order": 3
+		},
+		"content": {
+			"name": "content",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "content",
+			"order": 4
+		},
+		"info": {
+			"name": "info",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "info",
+			"order": 5
+		}
+	}
+}

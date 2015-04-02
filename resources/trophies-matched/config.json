@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"timestamp": {
+			"name": "timestamp",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "timestamp",
+			"order": 0
+		},
+		"trophyid": {
+			"name": "trophyid",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "trophyid",
+			"order": 1
+		},
+		"userid": {
+			"name": "userid",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "userid",
+			"order": 2
+		},
+		"points": {
+			"name": "points",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "points",
+			"order": 3
+		}
+	}
+}

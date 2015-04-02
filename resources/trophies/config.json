@@ -1,0 +1,125 @@
+{
+	"type": "Collection",
+	"properties": {
+		"orderNo": {
+			"name": "orderNo",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "orderNo",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 1
+		},
+		"description": {
+			"name": "description",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "description",
+			"order": 2
+		},
+		"nextStep": {
+			"name": "nextStep",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nextStep",
+			"order": 3
+		},
+		"points": {
+			"name": "points",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "points",
+			"order": 4
+		},
+		"startDate": {
+			"name": "startDate",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "startDate",
+			"order": 5
+		},
+		"endDate": {
+			"name": "endDate",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "endDate",
+			"order": 6
+		},
+		"beaconUuid": {
+			"name": "beaconUuid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "beaconUuid",
+			"order": 7
+		},
+		"beaconIdentifier": {
+			"name": "beaconIdentifier",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "beaconIdentifier",
+			"order": 8
+		},
+		"beaconMajor": {
+			"name": "beaconMajor",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "beaconMajor",
+			"order": 9
+		},
+		"beaconMinor": {
+			"name": "beaconMinor",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "beaconMinor",
+			"order": 10
+		},
+		"beaconColor": {
+			"name": "beaconColor",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "beaconColor",
+			"order": 11
+		},
+		"maxCount": {
+			"name": "maxCount",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxCount",
+			"order": 12
+		},
+		"delay": {
+			"name": "delay",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "delay",
+			"order": 13
+		},
+		"isActive": {
+			"name": "isActive",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isActive",
+			"order": 14
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"nickname": {
+			"name": "nickname",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nickname",
+			"order": 0
+		},
+		"score": {
+			"name": "score",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "score",
+			"order": 1
+		},
+		"picture": {
+			"name": "picture",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "picture",
+			"order": 2
+		}
+	}
+}
